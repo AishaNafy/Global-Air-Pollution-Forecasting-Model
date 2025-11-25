@@ -1,10 +1,10 @@
 # Global Air Pollution Forecasting Model
 
 <br>
-<br>
 <p align="center">
 🌐 Try Live Demo <a href="https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.app/" target="_blank"></a>
 </p>
+<br>
 
 ---
 
