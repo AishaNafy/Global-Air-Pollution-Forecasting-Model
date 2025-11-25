@@ -1,7 +1,4 @@
 # Global Air Pollution Forecasting Model
-
-**AI-Powered Web Application for Predicting PM2.5 Air Quality Index (AQI) Worldwide**
-
   
 <p align="center">
 🌐 Try Live Demo <a href="https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.app/" target="_blank"></a>
