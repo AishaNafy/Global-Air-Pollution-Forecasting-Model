@@ -23,6 +23,8 @@
 
 The **Global Air Pollution Forecasting Model** predicts PM2.5 AQI values using **machine learning**. It helps users monitor air quality in real time across **174+ countries** with an interactive, easy-to-use web interface.
 
+https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.app/
+
 **Objectives:**
 - Provide accurate PM2.5 AQI predictions.
 - Visualize AQI trends using intuitive charts.
