@@ -64,9 +64,9 @@ https://global-air-pollution-forecasting-model-cwr4glzywgq2jhhkhdrrhq.streamlit.
 └── README.md                     # This file
 ```
 
-## 🤖 Model Performance
+## Model Performance
 
-### 🌟 Random Forest (Recommended)
+### 📋 Random Forest (Recommended)
 - **R² Score:** `0.7152` (71.5% variance explained)
 - **Mean Absolute Error:** `16.06`
 - **RMSE:** `30.17`
